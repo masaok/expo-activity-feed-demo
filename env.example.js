@@ -1,0 +1,11 @@
+const STREAM_API_KEY = ''
+const STREAM_API_SECRET = ''
+const STREAM_APP_ID = ''
+const STREAM_API_TOKEN = ''
+
+export {
+  STREAM_API_KEY,
+  STREAM_API_SECRET,
+  STREAM_APP_ID,
+  STREAM_API_TOKEN,
+}

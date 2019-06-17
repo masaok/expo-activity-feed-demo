@@ -5,6 +5,10 @@
 - https://github.com/GetStream/react-native-activity-feed
 - https://github.com/GetStream/react-native-example
 
+## Tutorial
+
+- https://getstream.io/react-native-activity-feed/tutorial/
+
 # Quickstart
 
 ```
